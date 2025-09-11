@@ -1,3 +1,5 @@
+
+
 # Hallooo! I'm **Manvitha** 
 
 <div align="center">
@@ -6,8 +8,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manvitha-dungi&color=blueviolet&style=for-the-badge)
 
-<!-- Add your GIF/cover image here -->
-<img src="https://pin.it/63pwjnIzG" alt="Cover GIF" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;"/>
+<!-- Cover Image -->
+<img src="https://i.pinimg.com/1200x/a1/8c/6a/a18c6abda8d64c37ef42d5c9f7665b13.jpg" alt="Cover GIF" width="100%" height="400px" style="object-fit: cover; border-radius: 10px;"/>
 
 </div>
 
@@ -35,40 +37,44 @@ const manvitha = {
     goals: "Building scalable applications & exploring AI",
     funFact: "I debug with music and solve problems with coffee ☕"
 };
-```
+````
 
-- 🔥 **Full Stack Development** with React, Node.js, and MongoDB
-- 🤖 **Machine Learning & AI** projects using Python and TensorFlow  
-- 🏆 **Competitive Programming** on LeetCode and other platforms
-- 🌱 **Open Source Contributions** and collaborative projects
+* 🔥 **Full Stack Development** with React, Node.js, and MongoDB
+* 🤖 **Machine Learning & AI** projects using Python and TensorFlow
+* 🏆 **Competitive Programming** on LeetCode and other platforms
+* 🌱 **Open Source Contributions** and collaborative projects
 
 ---
 
 ## 🛠️ Tech Arsenal
 
 ### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 
 ### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge\&logo=heroku\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
 
@@ -83,7 +89,7 @@ const manvitha = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ManvithaDungi&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ManvithaDungi\&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -96,21 +102,23 @@ const manvitha = {
 <td valign="top" width="50%">
 
 ### **Currently Mastering**
-- 🚀 Advanced React patterns & hooks
-- 🔧 RESTful API design with Express.js
-- 🤖 Deep Learning with TensorFlow
-- 📊 Data visualization with Python
-- ☁️ Cloud deployment strategies
+
+* 🚀 Advanced React patterns & hooks
+* 🔧 RESTful API design with Express.js
+* 🤖 Deep Learning with TensorFlow
+* 📊 Data visualization with Python
+* ☁️ Cloud deployment strategies
 
 </td>
 <td valign="top" width="50%">
 
 ### **Next on the List**
-- 🔥 TypeScript for better code quality
-- 🐳 Docker & containerization
-- 📱 React Native for mobile apps
-- 🧠 Advanced ML algorithms
-- 🎨 UI/UX design principles
+
+* 🔥 TypeScript for better code quality
+* 🐳 Docker & containerization
+* 📱 React Native for mobile apps
+* 🧠 Advanced ML algorithms
+* 🎨 UI/UX design principles
 
 </td>
 </tr>
@@ -120,14 +128,13 @@ const manvitha = {
 
 ## 🌟 Featured Projects
 
-<!-- You can add your top projects here -->
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔗 **[Social TimeLine App](#)** | Brief description of your project | React, Node.js, MongoDB |
-| 🔗 **[Python Drone Simulation](#)** |Brief description of your project| Python, TensorFlow, Flask |
-| 🔗 **[Website for Autism Kids](#)** | Brief description of your project | JavaScript, Express, MySQL |
+| Project                             | Description                                          | Tech Stack                 |
+| ----------------------------------- | ---------------------------------------------------- | -------------------------- |
+| 🔗 **[Social TimeLine App](#)**     | A platform to connect and share moments with friends | React, Node.js, MongoDB    |
+| 🔗 **[Python Drone Simulation](#)** | Simulating drone movements using ML models           | Python, TensorFlow, Flask  |
+| 🔗 **[Website for Autism Kids](#)** | Educational platform with interactive features       | JavaScript, Express, MySQL |
 
 </div>
 
@@ -137,11 +144,11 @@ const manvitha = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manvitha-dungi-8a8040211/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManvithaDungi)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/manvitha_dungi/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manvitha3626@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://manvithadungi.github.io/MyPortfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/manvitha-dungi-8a8040211/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ManvithaDungi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/manvitha_dungi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:manvitha3626@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=About.me\&logoColor=white)](https://manvithadungi.github.io/MyPortfolio/)
 
 </div>
 
@@ -151,8 +158,8 @@ const manvitha = {
 
 <div align="center">
 
-| 🧠 | 🎵 | ☕ | 🚀 |
-|:---:|:---:|:---:|:---:|
+|                🧠                |                🎵               |           ☕           |               🚀              |
+| :------------------------------: | :-----------------------------: | :-------------------: | :---------------------------: |
 | **Problem-solving is my cardio** | **Code + Music = Perfect Flow** | **Powered by Coffee** | **Always exploring new tech** |
 
 </div>
@@ -161,12 +168,13 @@ const manvitha = {
 
 <div align="center">
 
-### 🎨 *"Code is like humor. When you have to explain it, it's bad."* 
+### 🎨 *"Code is like humor. When you have to explain it, it's bad."*
 
 **Let's build something amazing together!** 🚀
 
 <img src="https://komarev.com/ghpvc/?username=manvitha-dungi&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
 </div>
+```
 
 ---
