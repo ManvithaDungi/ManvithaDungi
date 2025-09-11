@@ -1,4 +1,4 @@
-# Hey there! I'm **Manvitha Dungi** 👋
+# Hallooo! I'm **Manvitha** 
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=manvitha-dungi&color=blueviolet&style=for-the-badge)
 
 <!-- Add your GIF/cover image here -->
-<img src="Brief description of your project" alt="Cover GIF" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;"/>
+<img src="https://pin.it/63pwjnIzG" alt="Cover GIF" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;"/>
 
 </div>
 
