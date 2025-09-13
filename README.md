@@ -1,14 +1,21 @@
 
-
-# Hallooo! I'm **Manvitha** 
+# Hallooo! I'm **Manvitha**
 
 <div align="center">
-
-## Welcome to my GitHub Universe 🌟
-
 
 <!-- Cover Image -->
-<img src="https://i.pinimg.com/1200x/a1/8c/6a/a18c6abda8d64c37ef42d5c9f7665b13.jpg" alt="Cover GIF" width="100%" height="400px" style="object-fit: cover; border-radius: 10px;"/>
+<img src="https://i.pinimg.com/1200x/a1/8c/6a/a18c6abda8d64c37ef42d5c9f7665b13.jpg" alt="Cover GIF" width="100%" height="400px" style="object-fit: cover; border-radius: 10px;" />
+
+</div>
+
+## About Me
+
+<div align="center">
+
+I'm just a girl 🎀  
+Daydreaming is the only thing I'm good at  
+Waiting for my confidence booster moment  
+Propaganda I definitely fell for: cats, little joys in life
 
 </div>
 
@@ -16,36 +23,29 @@
 
 <div align="center">
 
-### 🎓 **B.Tech Computer Science** | **Amrita Vishwa Vidyapeetham**
-### 💻 **Full Stack Developer** | **Data Science Enthusiast** | **ML Explorer**
+### 🎓 **B.Tech Computer Science** | **Amrita Vishwa Vidyapeetham**  
+### 💻 **Full Stack Developer** | **Data Science Enthusiast** | **ML Explorer**  
 
-*Passionate coder and lifelong learner on a mission to solve problems and build amazing things!*
-
-🌐 **[Check out my Portfolio](https://manvithadungi.github.io/MyPortfolio/)** ✨
+**[My Portfolio](https://manvithadungi.github.io/MyPortfolio/)** ✨
 
 </div>
 
 ---
-
-## 🚀 Currently Working On
 
 ```javascript
 const manvitha = {
     currentFocus: ["Web Development", "Machine Learning", "Data Science"],
     learning: ["React.js", "Node.js", "TensorFlow", "MongoDB"],
     goals: "Building scalable applications & exploring AI",
-    funFact: "I debug with music and solve problems with coffee ☕"
+    funFact: "I debug with music and solve problems under pressure "
+};
+
+const Domains = {
+    FullStackDevelopment : "with React, Node.js, and MongoDB",
+    ML & AI: "projects using Python and TensorFlow",
+    CompetitiveProgramming: "on LeetCode and other platforms"
 };
 ````
-
-* 🔥 **Full Stack Development** with React, Node.js, and MongoDB
-* 🤖 **Machine Learning & AI** projects using Python and TensorFlow
-* 🏆 **Competitive Programming** on LeetCode and other platforms
-* 🌱 **Open Source Contributions** and collaborative projects
-
----
-
-## 🛠️ Tech Arsenal
 
 ### **Languages**
 
@@ -59,7 +59,6 @@ const manvitha = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ### **Backend & Database**
 
@@ -68,21 +67,14 @@ const manvitha = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### **Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge\&logo=heroku\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManvithaDungi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManvithaDungi&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManvithaDungi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManvithaDungi&layout=compact&langs_count=8&theme=tokyonight" />
 
 </div>
 
@@ -93,8 +85,6 @@ const manvitha = {
 </div>
 
 ---
-
-## 🎯 Learning Journey
 
 <table>
 <tr>
@@ -109,37 +99,12 @@ const manvitha = {
 * ☁️ Cloud deployment strategies
 
 </td>
-<td valign="top" width="50%">
-
-### **Next on the List**
-
-* 🔥 TypeScript for better code quality
-* 🐳 Docker & containerization
-* 📱 React Native for mobile apps
-* 🧠 Advanced ML algorithms
-* 🎨 UI/UX design principles
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project                             | Description                                          | Tech Stack                 |
-| ----------------------------------- | ---------------------------------------------------- | -------------------------- |
-| 🔗 **[Social TimeLine App](#)**     | A platform to connect and share moments with friends | React, Node.js, MongoDB    |
-| 🔗 **[Python Drone Simulation](#)** | Simulating drone movements using ML models           | Python, TensorFlow, Flask  |
-| 🔗 **[Website for Autism Kids](#)** | Educational platform with interactive features       | JavaScript, Express, MySQL |
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Collaborate
 
 <div align="center">
 
@@ -151,29 +116,3 @@ const manvitha = {
 
 </div>
 
----
-
-## 💫 Fun Facts About Me
-
-<div align="center">
-
-|                🧠                |                🎵               |           ☕           |               🚀              |
-| :------------------------------: | :-----------------------------: | :-------------------: | :---------------------------: |
-| **Problem-solving is my cardio** | **Code + Music = Perfect Flow** | **Powered by Coffee** | **Always exploring new tech** |
-
-</div>
-
----
-
-<div align="center">
-
-### 🎨 *"Code is like humor. When you have to explain it, it's bad."*
-
-**Let's build something amazing together!** 🚀
-
-<img src="https://komarev.com/ghpvc/?username=manvitha-dungi&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-
-</div>
-```
-
----
