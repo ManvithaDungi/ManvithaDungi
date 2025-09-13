@@ -6,7 +6,6 @@
 
 ## Welcome to my GitHub Universe 🌟
 
-![Profile Views](https://komarev.com/ghpvc/?username=manvitha-dungi&color=blueviolet&style=for-the-badge)
 
 <!-- Cover Image -->
 <img src="https://i.pinimg.com/1200x/a1/8c/6a/a18c6abda8d64c37ef42d5c9f7665b13.jpg" alt="Cover GIF" width="100%" height="400px" style="object-fit: cover; border-radius: 10px;"/>
