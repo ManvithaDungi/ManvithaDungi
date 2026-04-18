@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/✦_my_portfolio-ff6b9d?style=for-the-badge&logoColor=white)](https://manvithadungi.github.io/MyPortfolio/)
+[![Portfolio](https://img.shields.io/badge/✦_my_portfolio-ff6b9d?style=for-the-badge&logoColor=white)](https://manvithadungi.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manvitha-dungi-8a8040211/)
 [![LeetCode](https://img.shields.io/badge/leetcode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/manvitha_dungi/)
 [![Gmail](https://img.shields.io/badge/say_hi-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manvitha3626@gmail.com)
