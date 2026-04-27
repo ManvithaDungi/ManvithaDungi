@@ -87,11 +87,20 @@ const domains = {
 ## projects
 
 <div align="center">
-
-[![AI Symptom Analyser](https://github-readme-stats.vercel.app/api/pin/?username=ManvithaDungi&repo=AI_SymptomAnalyserForWomen&theme=tokyonight)](https://github.com/ManvithaDungi/AI_SymptomAnalyserForWomen)
-&nbsp;&nbsp;
-[![Patient Management System](https://github-readme-stats.vercel.app/api/pin/?username=ManvithaDungi&repo=PatientManagementSystem&theme=tokyonight)](https://github.com/ManvithaDungi/PatientManagementSystem)
-
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/ManvithaDungi/AI_SymptomAnalyserForWomen">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManvithaDungi&repo=AI_SymptomAnalyserForWomen&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ManvithaDungi/PatientManagementSystem">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManvithaDungi&repo=PatientManagementSystem&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## github analytics
