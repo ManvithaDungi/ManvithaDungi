@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./assets/cover-image.jpg" alt="Cover" width="100%" height="380px" style="object-fit:cover; border-radius:16px;" />
-
+<img src="./assets/cover-image.jpg" alt="Cover" width="100%" />
 <br/><br/>
 
 # hallooo, i'm **manvitha** ✦
@@ -87,17 +86,13 @@ const domains = {
 
 ## projects
 
-### AI Symptom Analyser For Women
+<div align="center">
 
-An AI-driven symptom analysis project focused on women's health insights.
+[![AI Symptom Analyser](https://github-readme-stats.vercel.app/api/pin/?username=ManvithaDungi&repo=AI_SymptomAnalyserForWomen&theme=tokyonight)](https://github.com/ManvithaDungi/AI_SymptomAnalyserForWomen)
+&nbsp;&nbsp;
+[![Patient Management System](https://github-readme-stats.vercel.app/api/pin/?username=ManvithaDungi&repo=PatientManagementSystem&theme=tokyonight)](https://github.com/ManvithaDungi/PatientManagementSystem)
 
-- Repository: [ManvithaDungi/AI_SymptomAnalyserForWomen](https://github.com/ManvithaDungi/AI_SymptomAnalyserForWomen)
-
-### Patient Management System
-
-A full-stack application for managing patient records, workflows, and healthcare operations.
-
-- Repository: [ManvithaDungi/PatientManagementSystem](https://github.com/ManvithaDungi/PatientManagementSystem)
+</div>
 
 ## github analytics
 
