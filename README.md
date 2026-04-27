@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/a1/8c/6a/a18c6abda8d64c37ef42d5c9f7665b13.jpg" alt="Cover" width="100%" height="380px" style="object-fit:cover; border-radius:16px;" />
+<img src="./assets/cover-image.jpg" alt="Cover" width="100%" height="380px" style="object-fit:cover; border-radius:16px;" />
 
 <br/><br/>
 
@@ -84,6 +84,20 @@ const domains = {
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
+
+## projects
+
+### AI Symptom Analyser For Women
+
+An AI-driven symptom analysis project focused on women's health insights.
+
+- Repository: [ManvithaDungi/AI_SymptomAnalyserForWomen](https://github.com/ManvithaDungi/AI_SymptomAnalyserForWomen)
+
+### Patient Management System
+
+A full-stack application for managing patient records, workflows, and healthcare operations.
+
+- Repository: [ManvithaDungi/PatientManagementSystem](https://github.com/ManvithaDungi/PatientManagementSystem)
 
 ## github analytics
 
